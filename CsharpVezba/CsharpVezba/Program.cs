@@ -12,6 +12,7 @@ namespace CsharpVezba
         {
             Console.WriteLine("Ispisi nesto");
             Console.WriteLine("Ispisi jos nesto");
+            Console.WriteLine("jos nesto");
 
         }
     }
