@@ -11,6 +11,8 @@ namespace CsharpVezba
         static void Main(string[] args)
         {
             Console.WriteLine("Ispisi nesto");
+            Console.WriteLine("Ispisi jos nesto");
+
         }
     }
 }
