@@ -13,9 +13,9 @@ namespace CsharpVezba
             Console.WriteLine("Ispisi nesto");
             Console.WriteLine("Ispisi jos nesto");
             Console.WriteLine("jos nesto");
+            Console.WriteLine("jos izmena");
             Console.WriteLine("nesto sa grane");
             Console.WriteLine("pokusacu merge");
-
         }
     }
 }
