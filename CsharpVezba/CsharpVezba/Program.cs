@@ -10,6 +10,7 @@ namespace CsharpVezba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ispisi nesto");
         }
     }
 }
